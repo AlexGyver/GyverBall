@@ -32,12 +32,20 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO http://ali.pub/2sztzq  http://ali.pub/2szu0b
-- Bluetooth HC-06 http://ali.pub/2szu6c
-- Серво маленькая http://ali.pub/2u6fi7 http://ali.pub/2u6fgn
-- Серво большая http://ali.pub/2u6few http://ali.pub/2u6ffv
-- Макетка http://ali.pub/2szu5y
-- Провода для макетки http://ali.pub/2szu56
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Giant4 (Россия)
+* Bluetooth HC-06 – искать
+* https://ali.ski/yZRcry
+* https://ali.ski/fkffF
+* Серво маленькая искать
+* https://ali.ski/shjRZL
+* Серво большая искать
+* https://ali.ski/RSdawC
+* Макетка и провода https://ali.ski/9rTx_c
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
